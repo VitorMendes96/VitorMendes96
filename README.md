@@ -24,7 +24,7 @@ Estou sempre em busca de novos aprendizados e desafios que me ajudem a evoluir t
             src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"
         />
     </a> 
-    <a href="https://github.com/vitorlucas5k">
+    <a href="https://github.com/VitorMendes96">
         <img 
             alt="GitHub" 
             title="GitHub Repositórios" 
