@@ -1,23 +1,141 @@
-# O que é que há velhinho? 🐰
+# 👩🏻‍💻 Vitor Mendes
 
-Bem-vindo(a) ao meu lar do GitHub!
+**`Desenvolvedor FullStack`**
+
+Olá! Meu nome é Vitor, tenho 22 anos e sou apaixonado por tecnologia e inovação.
+Sou formado em Técnico de Desenvolvimento de Software e atualmente estou cursando Administração para ampliar minha visão estratégica de negócios.
+
+Trabalho como estagiário na área de Qualidade em uma empresa de tecnologia, onde atuo em projetos de automação e integração utilizando Python e Make.
+
+Estou sempre em busca de novos aprendizados e desafios que me ajudem a evoluir tanto tecnicamente quanto profissionalmente.
+
+<p align="left">
+    <a href="https://www.instagram.com/vitorlucas5k/">
+        <img 
+            alt="Link do Instagram" 
+            title="Instagram" 
+            src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/vitor-lima1/">
+        <img 
+            alt="LinkedIn" 
+            title="LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"
+        />
+    </a> 
+    <a href="https://github.com/vitorlucas5k">
+        <img 
+            alt="GitHub" 
+            title="GitHub Repositórios" 
+            src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=GitHub&logoColor=white"
+        />
+    </a>
+    <a href="https://wa.me/558197">
+        <img 
+            alt="WhatsApp" 
+            title="WhatsApp" 
+            src="https://img.shields.io/badge/WhatsApp-%25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white"
+        />
+    </a>
+</p>
 
 ---
 
-## 🚀 Minhas redes sociais para contato
+### 🤖 Linguagens e Tecnologias
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />](https://www.linkedin.com/in/vitor-lima1/)
-&nbsp;&nbsp;
-[<img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="30" />](https://www.instagram.com/vitorlucas5k/)
-&nbsp;&nbsp;
-[<img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="30" />](https://wa.me/5581997034296)
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Next.js" 
+    title="Next.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Tailwind" 
+    title="Tailwind"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="SASS" 
+    title="SASS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
 
----
+<br/>
+<br/>
 
-## 📈 Sobre mim
+### 📊 Estatísticas
 
-- 💻 Apaixonado por tecnologia
-- 🎯 Sempre buscando novos desafios e aprendizados
-- 🚀 Em constante evolução
-
----
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=VitorMendes96&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+</p>
