@@ -1,16 +1,23 @@
-## Hi there 👋
+# O que é que há velhinho? 🐰
 
-<!--
-**VitorMendes96/VitorMendes96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo(a) ao meu lar do GitHub!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Minhas redes sociais para contato
+
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />](https://www.linkedin.com/in/vitor-lima1/)
+&nbsp;&nbsp;
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="30" />](https://www.instagram.com/vitorlucas5k/)
+&nbsp;&nbsp;
+[<img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="30" />](https://wa.me/5581997034296)
+
+---
+
+## 📈 Sobre mim
+
+- 💻 Apaixonado por tecnologia
+- 🎯 Sempre buscando novos desafios e aprendizados
+- 🚀 Em constante evolução
+
+---
