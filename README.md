@@ -31,7 +31,7 @@ Estou sempre em busca de novos aprendizados e desafios que me ajudem a evoluir t
             src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=GitHub&logoColor=white"
         />
     </a>
-    <a href="https://wa.me/558197">
+    <a href="https://wa.me/5581997034296">
         <img 
             alt="WhatsApp" 
             title="WhatsApp" 
