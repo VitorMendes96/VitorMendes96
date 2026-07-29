@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Vitor Mendes
+#  Vitor Mendes
 
 **`Desenvolvedor FullStack`**
 
