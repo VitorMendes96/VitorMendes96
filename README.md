@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá! Meu nome é Vitor, tenho 22 anos e sou apaixonado por tecnologia e inovação.
+Olá! Meu nome é Vitor, tenho 23 anos e sou apaixonado por tecnologia e inovação.
 Sou formado em Técnico de Desenvolvimento de Software e atualmente estou cursando Administração para ampliar minha visão estratégica de negócios.
 
 Trabalho como estagiário na área de Qualidade em uma empresa de tecnologia, onde atuo em projetos de automação e integração utilizando Python e Make.
